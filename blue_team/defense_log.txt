@@ -1,0 +1,146 @@
+
+============================================================
+NUEVA SESION - 2025-12-10 23:12:21
+IP Protegida: 172.16.0.4
+============================================================
+
+[2025-12-10 23:12:25] SYN SOSPECHOSO
+  IP: 123.210.145.127
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:26] SYN SOSPECHOSO
+  IP: 123.210.145.127
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:46] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:47] SYN SOSPECHOSO
+  IP: 161.35.159.88
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:48] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:57] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:57] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:57] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:58] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:58] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:58] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:58] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:58] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:58] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:58] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:59] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:59] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:59] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:59] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:59] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:59] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:12:59] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:13:00] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:13:00] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:13:00] SYN SOSPECHOSO
+  IP: 186.176.20.87
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:13:47] SYN SOSPECHOSO
+  IP: 161.35.159.88
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:14:44] SYN SOSPECHOSO
+  IP: 161.35.159.88
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
+[2025-12-10 23:15:43] SYN SOSPECHOSO
+  IP: 161.35.159.88
+  Puerto: 22
+  Razon: Puerto fuera del rango comun
+
